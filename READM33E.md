@@ -18,8 +18,8 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+## 🔥 Estadisticas
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasburgueno&hide_border=falso&border_radius=20&locale=es&theme=algolia" alt="nicolasburgueno" /></p>
 
 <br>
 <br>
