@@ -4,9 +4,9 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="nicolasburgueno" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="nicolasburgueno" target="_blank"/> 
 	</a>
 </p>
 
@@ -19,7 +19,7 @@
 <br>
 
 ## 🔥 Estadisticas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasburgueno&hide_border=falso&border_radius=20&locale=es&theme=algolia" alt="nicolasburgueno" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasburgueno&hide_border=falso&border_radius=20&locale=es&theme=blux" alt="nicolasburgueno" /></p>
 
 <br>
 <br>
