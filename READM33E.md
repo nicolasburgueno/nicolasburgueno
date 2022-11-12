@@ -24,7 +24,7 @@
 <br>
 <br>
 
-## <img src="https://giphy.com/stickers/AnalyzeMedia-talk-lets-analyzemedia-daIfTnwGeY0J3zc1tg" width="30px"> Conectate conmigo
+## <img src="https://media1.giphy.com/media/daIfTnwGeY0J3zc1tg/giphy.gif?cid=790b761190b3b718748956fb161b7556c0f71bf6a42f3bab&rid=giphy.gif&ct=s" width="30px"> Conectate conmigo
 <p align="center">
 	<a href="mailto:nicogg08@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/HX-NBurgueno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
