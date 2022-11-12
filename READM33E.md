@@ -15,7 +15,6 @@
 - 🙋🏻‍♂ Soy una persona que disfruta mucho del trabajo en equipo, me gusta ayudar y aprender de mis compañeros, estoy siempre disponible a recibir criticas constructivas que me ayuden a mejorar como profesional y me mantego en constante aprendizaje.
 - ⚽ Mi hobbie es el futbol.
 - 📫 Para contactarme --> **nicolasburgo12@hotmail.com**
-
 <br>
 
 ## <img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px">Estadisticas
