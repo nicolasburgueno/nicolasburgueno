@@ -19,7 +19,7 @@
 <br>
 
 ## 🔥 Estadisticas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasburgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno" /></p>
 
 <br>
 <br>
