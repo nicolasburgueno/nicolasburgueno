@@ -8,7 +8,7 @@
 </p>
 
 
-## <img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width="60px">Sobre Mi
+## <img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width="50px">Sobre Mi
 - 🌱 Me encuentro aprendiendo --> **React Native, TypeScript.**
 - 💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.**
 - 🌄 Me gusta mucho viajar y conocer lugares nuevos.
