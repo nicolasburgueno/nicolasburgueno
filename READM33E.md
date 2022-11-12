@@ -24,7 +24,7 @@
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif?cid=790b7611c449e83395ac00d911a53ff44e2dd91885d0252e&rid=giphy.gif&ct=s" width="30px"> Conectate conmigo
+## <img src="https://media2.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif?cid=790b7611c449e83395ac00d911a53ff44e2dd91885d0252e&rid=giphy.gif&ct=s" width="60px"> Conectate conmigo
 <p align="center">
 	<a href="mailto:nicogg08@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/HX-NBurgueno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
