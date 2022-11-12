@@ -8,7 +8,7 @@
 </p>
 
 
-### :sassy_man:  Sobre Mi
+## :sassy_man:  Sobre Mi
 - 🌱 Me encuentro aprendiendo --> **React Native, TypeScript.**
 - 💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.**
 - 🌄 Me gusta mucho viajar y conocer lugares nuevos.
