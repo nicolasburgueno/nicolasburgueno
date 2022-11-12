@@ -139,7 +139,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="HX-NBurgueno's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HX-NBurgueno&custom_title=HX-NBurgueno's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/HX-NBurgueno"><img alt="HX-NBurgueno's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HX-NBurgueno&custom_title=HX-NBurgueno's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <!-- 7oSkaaa -->
 
