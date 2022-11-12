@@ -23,7 +23,7 @@
 <br>
 <br>
 
-##<img src="https://media1.giphy.com/media/KAGNjQwiadTJw0eLs2/giphy.gif?cid=790b761106e9045c616ae9af00689b67055bb43885a286f9&rid=giphy.gif&ct=s" width="40px"> Conectate conmigo
+## <img src="https://media1.giphy.com/media/KAGNjQwiadTJw0eLs2/giphy.gif?cid=790b761106e9045c616ae9af00689b67055bb43885a286f9&rid=giphy.gif&ct=s" width="40px"> Conectate conmigo
 <p align="center">
 	<a href="mailto:nicogg08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/HX-NBurgueno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -34,7 +34,7 @@
 <br>
 
 
-##<img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px"> My Skills
+## <img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px"> My Skills
 
 ### 👉 Programming languages
 
