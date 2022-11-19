@@ -48,7 +48,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
 </p>
 
-### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> Frontend Development
+### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> <p align="right"> Frontend Development </p>
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
