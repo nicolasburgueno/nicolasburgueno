@@ -40,22 +40,20 @@
 
 ## <img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px">Mis habilidades
 <br>
-<div>
 ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> Programming languages
-
+### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> <p align="right"> Frontend Development </p>
 <p align="center"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
 </p>
 
-### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> <p align="right"> Frontend Development </p>
+<!-- ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> <p align="right"> Frontend Development </p> -->
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
 </p>
-</div>
  ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> Software & Tools
  
 <p align="center">
