@@ -41,18 +41,20 @@
 ### <img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px">Mis habilidades
 <br>
 ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> Programming languages
+
 <p align="center"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
+
  ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> Software & Tools
  
 <p align="center">
@@ -80,7 +82,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
