@@ -11,7 +11,6 @@
 
 
 ## <img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width="50px"> *Sobre Mi*
-<div width="2px"> 
 >- <p>🌱 Me encuentro aprendiendo --> <b>React Native, TypeScript.</b></p>
 >- <p>💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.**</p>
 >- <p>🌄 disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.</p>
@@ -21,7 +20,6 @@
 
 ¡Gracias por tu atención y espero tener la oportunidad de trabajar juntos en un futuro cercano!
 <br>
-</div>
 </div>
 
 ## <img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px" align="left"> *Estadisticas*
