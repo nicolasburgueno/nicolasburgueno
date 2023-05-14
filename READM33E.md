@@ -23,7 +23,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## <img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px" align="center">*Mis habilidades*
+## <p align="center"><img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px">*Mis habilidades*</p>
 
 > Tools, languages, and other things that I like to work with.
 
