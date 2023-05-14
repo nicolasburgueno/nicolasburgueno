@@ -1,28 +1,22 @@
 # <h1 align="center">*Hola, Soy Nicolas Burgueño* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
-  <img src="https://github.com/HX-NBurgueno/nicolasburgueno/blob/main/images/Profile%20image.jpeg" align="right" height="554">
-  
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&duration=3000&pause=2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Desarrollador+Front+End;Desarrollador+Back+End" alt="Typing SVG" /></a>
-  </p>
-  
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=HX-NBurgueno&label=Profile%20views&color=0e75b6&style=plastic" alt="nicolasburgueno" /> 
-  </p>
-</div>
+<img src="https://github.com/HX-NBurgueno/nicolasburgueno/blob/main/images/Profile%20image.jpeg" align="right" height="554">	
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&duration=3000&pause=2&background=FFFFFF00&center=verdadero&vCenter=verdadero&width=435&lines=Desarrollador+Front+End;Desarrollador+Back+End&center=true&width=500&height=50" alt="Typing SVG" /></a>
+<br>
 
-<h2 align="right"><img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width="50px" style="margin-bottom: -20px;"> Sobre Mi</h2>
-
-<p>
-  <ul>
-    <li>🌱 Me encuentro aprendiendo -> <b>React Native, TypeScript.</b></li>
-    <li>💬 Me puedes preguntar sobre -> <b>JavaScript, React & Redux, NodeJS, Express, HTML, CSS, PostgreSQL, Sequelize.</b></li>
-    <li>🌄 Disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.</li>
-    <li>🙋🏻‍♂ Soy una persona colaborativa y disfruto trabajando en equipo. Valorizo la colaboración y el intercambio de conocimientos con mis compañeros, siempre dispuesto a ayudar y aprender de los demás. Aprecio las críticas constructivas que me ayudan a crecer como profesional y me mantengo en constante aprendizaje para seguir mejorando mis habilidades.</li>
-    <li>⚽ Además del desarrollo de software, tengo un gran interés por el fútbol. Jugar y seguir este deporte es una de mis pasiones fuera del ámbito profesional. Creo que la disciplina y la determinación que se requieren en el fútbol se pueden trasladar al mundo del desarrollo de software para lograr resultados excelentes.</li>
-    <li>📫 Si estás interesado en conocer más sobre mi trabajo o deseas contactarme para discutir una posible colaboración, no dudes en enviarme un correo electrónico a nicogg08@gmail.com. Estoy emocionado por las oportunidades futuras y ansioso por formar parte de proyectos innovadores.</li>
-  </ul>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=HX-NBurgueno&label=Profile%20views&color=0e75b6&style=plastic" alt="nicolasburgueno" /> 
 </p>
+
+
+## <img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width="50px" style="bottom: 50px;"> *Sobre Mi*
+>- <p>🌱 Me encuentro aprendiendo --> <b>React Native, TypeScript.</b></p>
+>- <p>💬 Me puedes preguntar sobre --> <b>JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.</b></p>
+>- <p>🌄 disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.</p>
+>- <p>🙋🏻‍♂ Soy una persona colaborativa y disfruto trabajando en equipo. Valorizo la colaboración y el intercambio de conocimientos con mis compañeros, siempre dispuesto a ayudar y aprender de los demás. Aprecio las críticas constructivas que me ayudan a crecer como profesional y me mantengo en constante aprendizaje para seguir mejorando mis habilidades.</p>
+>- <p>⚽ Además del desarrollo de software, tengo un gran interés por el fútbol. Jugar y seguir este deporte es una de mis pasiones fuera del ámbito profesional. Creo que la disciplina y la determinación que se requieren en el fútbol se pueden trasladar al mundo del desarrollo de software para lograr resultados excelentes.</p>
+>- <p>📫 Si estás interesado en conocer más sobre mi trabajo o deseas contactarme para discutir una posible colaboración, no dudes en enviarme un correo electrónico a nicogg08@gmail.com. Estoy emocionado por las oportunidades futuras y ansioso por formar parte de proyectos innovadores.</p>
 
 ¡Gracias por tu atención y espero tener la oportunidad de trabajar juntos en un futuro cercano!
 <br>
