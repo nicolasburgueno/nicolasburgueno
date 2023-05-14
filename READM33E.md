@@ -12,7 +12,7 @@
 ## <img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width="50px"> Sobre Mi
 - 🌱 Me encuentro aprendiendo --> **React Native, TypeScript.**
 - 💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.**
-- 🌄 Me gusta mucho viajar y conocer lugares nuevos.
+- 🌄 disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.
 - 🙋🏻‍♂ Soy una persona que disfruta mucho del trabajo en equipo, me gusta ayudar y aprender de mis compañeros, estoy siempre disponible a recibir criticas constructivas que me ayuden a mejorar como profesional y me mantego en constante aprendizaje.
 - ⚽ Mi hobbie es el futbol.
 - 📫 Para contactarme --> **nicolasburgo12@hotmail.com**
