@@ -1,5 +1,8 @@
 # <h1 align="center">*Hola, Soy Nicolas Burgueño* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://github.com/HX-NBurgueno/nicolasburgueno/blob/main/images/Profile%20image.jpeg" align="right" height="654">
+<div>
+<div align="right"> 
+<img src="https://github.com/HX-NBurgueno/nicolasburgueno/blob/main/images/Profile%20image.jpeg" height="654">
+</div>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&duration=3000&pause=2&background=FFFFFF00&center=verdadero&vCenter=verdadero&width=435&lines=Desarrollador+Front+End;Desarrollador+Back+End&center=true&width=500&height=50" alt="Typing SVG" /></a>
 <br>
@@ -19,6 +22,7 @@
 
 ¡Gracias por tu atención y espero tener la oportunidad de trabajar juntos en un futuro cercano!
 <br>
+</div>
 
 ## <img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px" align="left"> *Estadisticas*
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/></p>
