@@ -20,7 +20,7 @@
 ¡Gracias por tu atención y espero tener la oportunidad de trabajar juntos en un futuro cercano!
 <br>
 
-## <img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px" bottom="6px"> *Estadisticas*
+## <p align="center"><img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px" bottom="6px"> *Estadisticas*</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/></p>
 
 <br>
