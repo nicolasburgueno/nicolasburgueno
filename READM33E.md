@@ -1,6 +1,6 @@
 # <h1 align="center">*Hola, Soy Nicolas Burgueño* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
-<div align="right"> 
+<div align="left"> 
 <img src="https://github.com/HX-NBurgueno/nicolasburgueno/blob/main/images/Profile%20image.jpeg" height="654">
 </div>
 <p align="center">
