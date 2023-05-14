@@ -13,7 +13,7 @@
 - 🌱 Me encuentro aprendiendo --> **React Native, TypeScript.**
 - 💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.**
 - 🌄 disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.
-- 🙋🏻‍♂ Soy una persona que disfruta mucho del trabajo en equipo, me gusta ayudar y aprender de mis compañeros, estoy siempre disponible a recibir criticas constructivas que me ayuden a mejorar como profesional y me mantego en constante aprendizaje.
+- 🙋🏻‍♂ Soy una persona colaborativa y disfruto trabajando en equipo. Valorizo la colaboración y el intercambio de conocimientos con mis compañeros, siempre dispuesto a ayudar y aprender de los demás. Aprecio las críticas constructivas que me ayudan a crecer como profesional y me mantengo en constante aprendizaje para seguir mejorando mis habilidades.
 - ⚽ Mi hobbie es el futbol.
 - 📫 Para contactarme --> **nicolasburgo12@hotmail.com**
 <br>
