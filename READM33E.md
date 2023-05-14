@@ -10,7 +10,7 @@
 
 
 ## <img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width="50px"> *Sobre Mi*
->- 🌱 Me encuentro aprendiendo --> **React Native, TypeScript.**
+>- <p>🌱 Me encuentro aprendiendo --> **React Native, TypeScript.**</p>
 >- 💬 Me puedes preguntar sobre --> **JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.**
 >- 🌄 disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.
 >- 🙋🏻‍♂ Soy una persona colaborativa y disfruto trabajando en equipo. Valorizo la colaboración y el intercambio de conocimientos con mis compañeros, siempre dispuesto a ayudar y aprender de los demás. Aprecio las críticas constructivas que me ayudan a crecer como profesional y me mantengo en constante aprendizaje para seguir mejorando mis habilidades.
