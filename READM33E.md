@@ -15,7 +15,9 @@
 - 🌄 disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.
 - 🙋🏻‍♂ Soy una persona colaborativa y disfruto trabajando en equipo. Valorizo la colaboración y el intercambio de conocimientos con mis compañeros, siempre dispuesto a ayudar y aprender de los demás. Aprecio las críticas constructivas que me ayudan a crecer como profesional y me mantengo en constante aprendizaje para seguir mejorando mis habilidades.
 - ⚽ Además del desarrollo de software, tengo un gran interés por el fútbol. Jugar y seguir este deporte es una de mis pasiones fuera del ámbito profesional. Creo que la disciplina y la determinación que se requieren en el fútbol se pueden trasladar al mundo del desarrollo de software para lograr resultados excelentes.
-- 📫 Para contactarme --> **nicolasburgo12@hotmail.com**
+- 📫 Si estás interesado en conocer más sobre mi trabajo o deseas contactarme para discutir una posible colaboración, no dudes en enviarme un correo electrónico a nicolasburgo12@hotmail.com. Estoy emocionado por las oportunidades futuras y ansioso por formar parte de proyectos innovadores.
+
+¡Gracias por tu atención y espero tener la oportunidad de trabajar juntos en un futuro cercano!
 <br>
 
 ## <img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px"> Estadisticas
