@@ -9,7 +9,7 @@
 </p>
 
 
-## <img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width= "50" align="center"/> <p>*Sobre Mi*</p>
+## <p><img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width= "50" align="center"/>*Sobre Mi*</p>
 >- <p>🌱 Me encuentro aprendiendo --> <b>React Native, TypeScript.</b></p>
 >- <p>💬 Me puedes preguntar sobre --> <b>JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize.</b></p>
 >- <p>🌄 disfruto explorar el mundo y descubrir nuevos lugares. La diversidad cultural y las experiencias enriquecedoras son una fuente de inspiración para mí, y estoy constantemente buscando formas de incorporar estas experiencias en mi trabajo.</p>
