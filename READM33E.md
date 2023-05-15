@@ -22,7 +22,7 @@
 <br>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
+<details>
 ## <p align="center"><img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px">*Mis habilidades*</p>
 
 ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> *Lenguajes de programación*
@@ -92,7 +92,7 @@
     </td>
   </tr>
 </table>
-
+</details>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <p align="center"><img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px" bottom="6px"> *Estadisticas*</p>
