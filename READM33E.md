@@ -29,13 +29,13 @@
 
 <table align="center">
   <tr>
-    <td width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./images/Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-   <td width="96">
+   <td align="center" width="96">
       <a href="#macropower-tech">
        <img src="./images/Typescript_logo_2020.svg.png" width="48" height="48" alt="Typescript" />
       </a>
