@@ -28,7 +28,7 @@
 ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> *Lenguajes de programación*
 
 <table>
-  <tr>
+  <tr align="center">
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./images/Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
