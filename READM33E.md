@@ -64,6 +64,35 @@
 
 ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> *Frameworks y Librerias*
 
+<table align="center">
+  <tr>
+   <td align="center" width="96">
+      <a href="https://expressjs.com/es/">
+       <img src="./images/express.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Express
+    </td>
+	  <td align="center" width="96">
+      <a href="https://es.legacy.reactjs.org">
+       <img src="./images/React-icon.svg.png" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>React
+    </td>
+	  <td align="center" width="96">
+      <a href="https://tailwindcss.com">
+       <img src="./images/Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+	<td align="center" width="96">
+      <a href="https://mui.com">
+       <img src="./images/material.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>Material UI
+    </td>
+  </tr>
+</table>
+
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <p align="center"><img src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/giphy.gif?cid=790b7611d3397d41470ad5938f0a7e8d51af0d3aed428091&rid=giphy.gif&ct=s" width="40px" bottom="6px"> *Estadisticas*</p>
