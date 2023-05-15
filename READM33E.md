@@ -93,6 +93,61 @@
     </td>
   </tr>
 </table>
+
+### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> *Bases de datos y Alojamiento en la nube*
+
+<table align="center">
+  <tr>
+   <td align="center" width="96">
+      <a href="https://expressjs.com/es/">
+       <img src="./images/GitHub-Pages.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Github Pages
+    </td>
+	  <td align="center" width="96">
+      <a href="https://es.legacy.reactjs.org">
+       <img src="./images/Notion-logo.svg.png" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>Notion
+    </td>
+	  <td align="center" width="96">
+      <a href="https://tailwindcss.com">
+       <img src="./images/SQLite370.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>SQLite
+    </td>
+	<td align="center" width="96">
+      <a href="https://mui.com">
+       <img src="./images/Vercel_logo_black.svg.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>Vercel
+    </td>
+	  <td align="center" width="96">
+      <a href="https://expressjs.com/es/">
+       <img src="./images/heroku_original_wordmark_logo_icon_146482.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Heroku
+    </td>
+	  <td align="center" width="96">
+      <a href="https://expressjs.com/es/">
+       <img src="./images/mysql-icon.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>MySQL
+    </td>
+	  <td align="center" width="96">
+      <a href="https://expressjs.com/es/">
+       <img src="./images/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>MongoDB
+    </td>
+	  <td align="center" width="96">
+      <a href="https://expressjs.com/es/">
+       <img src="./images/postgresql_original_wordmark_logo_icon_146392.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
 </details>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
