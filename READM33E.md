@@ -36,7 +36,7 @@
       <br>JavaScript
     </td>
    <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="[#macropower-tech](https://www.typescriptlang.org)">
        <img src="./images/Typescript_logo_2020.svg.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>TypeScript
