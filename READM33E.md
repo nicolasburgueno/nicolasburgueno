@@ -30,7 +30,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
         <img src="./images/Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -42,19 +42,19 @@
       <br>TypeScript
     </td>
 	  <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://nodejs.org/es">
        <img src="./images/Node_js.png" width="48" height="48" alt="NodeJs" />
       </a>
       <br>NodeJs
     </td>
 	  <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://developer.mozilla.org/es/docs/Web/HTML">
        <img src="./images/HTML5_logo.svg.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
 	<td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://developer.mozilla.org/es/docs/Web/CSS">
        <img src="./images/icon%20css%203.png" width="34" height="48" alt="CSS" />
       </a>
       <br>CSS
