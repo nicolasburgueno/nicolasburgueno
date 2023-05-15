@@ -55,7 +55,7 @@
     </td>
 	  <td align="center" width="96">
       <a href="#macropower-tech">
-       <img src="./images/CSS3_logo_and_wordmark.svg.png" width="48" height="48" alt="CSS" />
+       <img src="./images/icon%20css%203.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
