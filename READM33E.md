@@ -43,7 +43,7 @@
     </td>
 	  <td align="center" width="96">
       <a href="#macropower-tech">
-       <img src="./images/Node_js.jpg" width="48" height="48" alt="NodeJs" />
+       <img src="./images/Node_js.png" width="48" height="48" alt="NodeJs" />
       </a>
       <br>NodeJs
     </td>
