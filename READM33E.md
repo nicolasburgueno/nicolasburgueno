@@ -43,19 +43,19 @@
     </td>
 	  <td align="center" width="96">
       <a href="#macropower-tech">
-       <img src="./images/Typescript_logo_2020.svg.png" width="48" height="48" alt="NodeJs" />
+       <img src="./images/Node.js_logo.svg" width="48" height="48" alt="NodeJs" />
       </a>
       <br>NodeJs
     </td>
 	  <td align="center" width="96">
       <a href="#macropower-tech">
-       <img src="./images/Typescript_logo_2020.svg.png" width="48" height="48" alt="HTML" />
+       <img src="./images/HTML5_logo.svg.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
 	  <td align="center" width="96">
       <a href="#macropower-tech">
-       <img src="./images/Typescript_logo_2020.svg.png" width="48" height="48" alt="CSS" />
+       <img src="./images/CSS3_logo.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
