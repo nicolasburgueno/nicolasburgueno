@@ -31,9 +31,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./images/Typescript_logo_2020.svg.png" width="48" height="48" alt="Typescript" />
       </a>
-      <br>Go
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
