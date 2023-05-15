@@ -53,7 +53,7 @@
       </a>
       <br>HTML
     </td>
-	  <td align="center" width="96">
+	<td align="center" width="76">
       <a href="#macropower-tech">
        <img src="./images/icon%20css%203.png" width="48" height="48" alt="CSS" />
       </a>
