@@ -187,7 +187,7 @@
       <a href="https://expressjs.com/es/">
        <img src="./images/file_type_vscode_icon_130084.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
-      <br>Visual Studio Code
+      <br>VS Code
     </td>
 	  <td align="center" width="96">
       <a href="https://expressjs.com/es/">
