@@ -155,51 +155,45 @@
   <tr>
    <td align="center" width="96">
       <a href="https://expressjs.com/es/">
-       <img src="./images/GitHub-Pages.png" width="48" height="48" alt="Typescript" />
+       <img src="./images/174836.png" width="48" height="48" alt="Android" />
       </a>
-      <br>Github Pages
+      <br>Android
     </td>
 	  <td align="center" width="96">
       <a href="https://es.legacy.reactjs.org">
-       <img src="./images/Notion-logo.svg.png" width="48" height="48" alt="NodeJs" />
+       <img src="./images/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="48" height="48" alt="Discord" />
       </a>
-      <br>Notion
+      <br>Discord
     </td>
 	  <td align="center" width="96">
       <a href="https://tailwindcss.com">
-       <img src="./images/SQLite370.svg.png" width="48" height="48" alt="HTML" />
+       <img src="./images/768px-Stack_Overflow_icon.svg.png" width="48" height="48" alt="Stack Overflow" />
       </a>
-      <br>SQLite
+      <br>Stack Overflow
     </td>
 	<td align="center" width="96">
       <a href="https://mui.com">
-       <img src="./images/Vercel_logo_black.svg.png" width="48" height="48" alt="CSS" />
+       <img src="./images/787248.png" width="48" height="48" alt="Arch Linux" />
       </a>
-      <br>Vercel
+      <br>Arch Linux
     </td>
 	  <td align="center" width="96">
       <a href="https://expressjs.com/es/">
-       <img src="./images/heroku_original_wordmark_logo_icon_146482.png" width="48" height="48" alt="Typescript" />
+       <img src="./images/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Heroku
+      <br>Git
     </td>
 	  <td align="center" width="96">
       <a href="https://expressjs.com/es/">
-       <img src="./images/mysql-icon.png" width="48" height="48" alt="Typescript" />
+       <img src="./images/file_type_vscode_icon_130084.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
-      <br>MySQL
+      <br>Visual Studio Code
     </td>
 	  <td align="center" width="96">
       <a href="https://expressjs.com/es/">
-       <img src="./images/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Typescript" />
+       <img src="./images/postman-icon.png" width="48" height="48" alt="Postman" />
       </a>
-      <br>MongoDB
-    </td>
-	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
-       <img src="./images/postgresql_original_wordmark_logo_icon_146392.png" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>PostgreSQL
+      <br>Postman
     </td>
   </tr>
 </table>
