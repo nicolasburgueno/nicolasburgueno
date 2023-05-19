@@ -99,49 +99,49 @@
 <table align="center">
   <tr>
    <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://pages.github.com">
        <img src="./images/GitHub-Pages.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>Github Pages
     </td>
 	  <td align="center" width="96">
-      <a href="https://es.legacy.reactjs.org">
+      <a href="https://www.notion.so/desktop">
        <img src="./images/Notion-logo.svg.png" width="48" height="48" alt="NodeJs" />
       </a>
       <br>Notion
     </td>
 	  <td align="center" width="96">
-      <a href="https://tailwindcss.com">
+      <a href="https://sqlite.org/index.html">
        <img src="./images/SQLite370.svg.png" width="48" height="48" alt="HTML" />
       </a>
       <br>SQLite
     </td>
 	<td align="center" width="96">
-      <a href="https://mui.com">
+      <a href="https://vercel.com">
        <img src="./images/Vercel_logo_black.svg.png" width="48" height="48" alt="CSS" />
       </a>
       <br>Vercel
     </td>
 	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://www.heroku.com">
        <img src="./images/heroku_original_wordmark_logo_icon_146482.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>Heroku
     </td>
 	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://www.mysql.com">
        <img src="./images/mysql-icon.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>MySQL
     </td>
 	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://www.mongodb.com/es">
        <img src="./images/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>MongoDB
     </td>
 	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://www.postgresql.org">
        <img src="./images/postgresql_original_wordmark_logo_icon_146392.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>PostgreSQL
@@ -154,43 +154,43 @@
 <table align="center">
   <tr>
    <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://www.android.com/intl/es_es/">
        <img src="./images/174836.png" width="48" height="48" alt="Android" />
       </a>
       <br>Android
     </td>
 	  <td align="center" width="96">
-      <a href="https://es.legacy.reactjs.org">
+      <a href="https://discord.com">
        <img src="./images/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="48" height="48" alt="Discord" />
       </a>
       <br>Discord
     </td>
 	  <td align="center" width="96">
-      <a href="https://tailwindcss.com">
+      <a href="https://es.stackoverflow.com">
        <img src="./images/768px-Stack_Overflow_icon.svg.png" width="48" height="48" alt="Stack Overflow" />
       </a>
       <br>Stack Overflow
     </td>
 	<td align="center" width="96">
-      <a href="https://mui.com">
+      <a href="https://archlinux.org">
        <img src="./images/787248.png" width="48" height="48" alt="Arch Linux" />
       </a>
       <br>Arch Linux
     </td>
 	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://git-scm.com">
        <img src="./images/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
 	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://code.visualstudio.com">
        <img src="./images/file_type_vscode_icon_130084.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS Code
     </td>
 	  <td align="center" width="96">
-      <a href="https://expressjs.com/es/">
+      <a href="https://www.postman.com">
        <img src="./images/postman-icon.png" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
