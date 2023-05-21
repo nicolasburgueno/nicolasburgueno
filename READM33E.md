@@ -9,7 +9,7 @@
 	<img src="https://komarev.com/ghpvc/?username=HX-NBurgueno&label=Profile%20views&color=0e75b6&style=plastic" alt="nicolasburgueno" />
 	<br>
 	<br>
-	<button>`#ffffff` Resumen CV for light mode and `#000000`</button>
+	$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 </p>
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
