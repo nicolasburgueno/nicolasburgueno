@@ -11,8 +11,7 @@
 	<br>
 	<button>`#ffffff` Resumen CV for light mode and `#000000`</button
 </p>
-<span style="color:orange">Word up</span>
-		<font color="red">This is some text!</font>
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 
 
