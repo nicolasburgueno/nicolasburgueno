@@ -11,6 +11,7 @@
 	<br>
 	<button>`#ffffff` Resumen CV for light mode and `#000000`</button
 </p>
+`#ffffff` Resumen CV for light mode and `#000000`
 
 
 
