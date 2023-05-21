@@ -9,12 +9,8 @@
 	<img src="https://komarev.com/ghpvc/?username=HX-NBurgueno&label=Profile%20views&color=0e75b6&style=plastic" alt="nicolasburgueno" />
 	<br>
 	<br>
-	$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-</p>
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+</p>
 
 
 ## <p align="center"><img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width= "40"/> *Sobre Mi*</p>
