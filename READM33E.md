@@ -9,7 +9,7 @@
 	<img src="https://komarev.com/ghpvc/?username=HX-NBurgueno&label=Profile%20views&color=0e75b6&style=plastic" alt="nicolasburgueno" />
 	<br>
 	<br>
-	<button>CV</button
+	<button>`#ffffff` Resumen CV for light mode and `#000000`</button
 </p>
 
 
