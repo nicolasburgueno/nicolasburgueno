@@ -2,6 +2,7 @@
 <img src="https://github.com/HX-NBurgueno/nicolasburgueno/blob/main/images/Profile%20image.jpeg" align="right" height="554">	
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&duration=3000&pause=2&background=FFFFFF00&center=verdadero&vCenter=verdadero&width=435&lines=Desarrollador+Front+End;Desarrollador+Back+End&center=true&width=500&height=50" alt="Typing SVG" /></a>
+</p>
 <br>
 
 <p align="center"> 
