@@ -29,16 +29,15 @@
 <details>
 <summary><h2 align="left"><b><em>- Hablidades Blandas</em></b></summary>
 <ul>
-<p>    </p>	<li><b>Scrum</b></li>
 	<li><b>Scrum</b></li>
-	<li><b>Scrum</b></li>
-	<li><b>Scrum</b></li>
-	<li><b>Scrum</b></li>
-	<li><b>Scrum</b></li>
-	<li><b>Scrum</b></li>
+	<li><b>Trabajo en equipo</b></li>
+	<li><b>Proactivo</b></li>
+	<li><b>Resolución de problemas</b></li>
+	<li><b>Creatividad</b></li>
+	<li><b>Perseverancia</b></li>
+	<li><b>Aprendizaje continuo</b></li>
+	<li><b>Adaptabilidad</b></li>
 </ul>
-+ *Scrum*
-+ *Trabajo en equipo*
 </details>	
 <details>
 <summary><h2 align="left"><b><em>- Habilidades Tecnicas</em></b></summary>	
