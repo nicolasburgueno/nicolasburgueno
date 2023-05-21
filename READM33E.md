@@ -25,6 +25,10 @@
 <details>
 	
 <summary><h2 align="left"><img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px"><b><em>Mis habilidades</em></b></summary>
+	
+<details>
+<summary><h2 align="left"><img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px"><b><em>Hablidades Blandas</em></b></summary>
+</details>	
 
 <details>
 <summary><h2 align="left"><img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px"><b><em>Habilidades Tecnicas</em></b></summary>	
