@@ -28,8 +28,8 @@
 	
 <details>
 <summary><h2 align="left"><b><em>- Hablidades Blandas</em></b></summary>
-<ul align="center">
-	<li><b>Scrum</b></li>
+<ul>
+	<br><li><b>Scrum</b></li>
 	<li><b>Scrum</b></li>
 	<li><b>Scrum</b></li>
 	<li><b>Scrum</b></li>
