@@ -11,8 +11,7 @@
 	<br>
 	<button>`#ffffff` Resumen CV for light mode and `#000000`</button
 </p>
-`#ffffff` Resumen CV for light mode and `#000000`
-
+https://via.placeholder.com/150/ff0005/ffffff?text=hello
 
 
 ## <p align="center"><img src="https://media4.giphy.com/media/Fn2nKRQms7xkwMeDK9/giphy.gif?cid=790b7611e4926a0ed48e87619180f84f74c2a9a02f49a468&rid=giphy.gif&ct=s" width= "40"/> *Sobre Mi*</p>
