@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&duration=3000&pause=2&background=FFFFFF00&center=verdadero&vCenter=verdadero&width=435&lines=Desarrollador+Front+End;Desarrollador+Back+End&center=true&width=500&height=50" alt="Typing SVG" /></a>
 </p>
 <br>
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=HX-NBurgueno&label=Profile%20views&color=0e75b6&style=plastic" alt="nicolasburgueno" />	
 </p>
