@@ -1,10 +1,3 @@
-```diff
-text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 # <h1 align="center">*Hola, Soy Nicolas Burgueño* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://github.com/HX-NBurgueno/nicolasburgueno/blob/main/images/Profile%20image.jpeg" align="right" height="554">	
 <p align="center">
