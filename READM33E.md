@@ -10,6 +10,7 @@
 	<br>
 	<br>
 	<button>`#ffffff` Resumen CV for light mode and `#000000`</button
+		<span style="color:orange;">Word up</span>
 </p>
 <span style="color:orange;">Word up</span>
 
