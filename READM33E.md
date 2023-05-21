@@ -28,7 +28,7 @@
 	
 <details>
 <summary><h2 align="left"><b><em>- Hablidades Blandas</em></b></summary>
-<ul>
+<ul align="center">
 	<li><b>Scrum</b></li>
 	<li><b>Scrum</b></li>
 	<li><b>Scrum</b></li>
@@ -41,7 +41,7 @@
 + *Trabajo en equipo*
 </details>	
 <details>
-<summary><h2 align="left"><b><em>Habilidades Tecnicas</em></b></summary>	
+<summary><h2 align="left"><b><em>- Habilidades Tecnicas</em></b></summary>	
 	
 ### <img src="https://media4.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47j6yw2ce3ogfsy4ip2i0eadlso1qd5qsp2bj49cel&rid=giphy.gif&ct=s" width="36px"> 👉 *Lenguajes de programación* 👨‍💻
 	
