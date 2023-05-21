@@ -11,14 +11,7 @@
 	<br>
 	<button>`#ffffff` Resumen CV for light mode and `#000000`</button
 </p>
-		```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-		<img src="https://via.placeholder.com/150/ff0005/ffffff?text=hello" width="36px">
+<span style="color:orange;">Word up</span>
 
 
 
