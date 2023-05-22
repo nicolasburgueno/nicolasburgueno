@@ -240,9 +240,6 @@
 <br>
 <details> 
 <summary><h2 align="left"><b><em>📊 Github Estadisticas</em></b></summary>
-
-
-  <summary><b>💻 Estadisticas de perfil</b></summary>
   <br>
 	<div align="center">
 	<hr>
