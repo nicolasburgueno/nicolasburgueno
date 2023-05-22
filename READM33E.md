@@ -217,7 +217,7 @@
       <a href="https://trello.com/">
        <img src="./images/R.png" width="48" height="48" alt="Postman" />
       </a>
-      <br>Postman
+      <br>Trello
     </td>
   </tr>
 </table>
