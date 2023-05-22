@@ -226,7 +226,7 @@
 <hr>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>	
-<h2><img src="https://media1.giphy.com/media/KAGNjQwiadTJw0eLs2/giphy.gif?cid=790b761106e9045c616ae9af00689b67055bb43885a286f9&rid=giphy.gif&ct=s" width="40px"><b><em>Conectate conmigo</em></b></h2>
+<h2><img src="https://media1.giphy.com/media/KAGNjQwiadTJw0eLs2/giphy.gif?cid=790b761106e9045c616ae9af00689b67055bb43885a286f9&rid=giphy.gif&ct=s" width="40px"><b><em> Conectate conmigo</em></b>
 <hr>
 <p align="center">
 	<a href="mailto:nicogg08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
