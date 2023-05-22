@@ -245,7 +245,7 @@
   <summary><b>💻 Estadisticas de perfil</b></summary>
   <br/>
 	<hr>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react"></a>
+   <a href="https://github.com/HX-NBurgueno"><img alt="HX-NBurgueno's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HX-NBurgueno&custom_title=HX-NBurgueno's%20Contribution%20Graph&theme=react-dark" /></a>	
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=HX-NBurgueno&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"></a>
 	<hr>
   <div align="center" height="55">
