@@ -244,6 +244,8 @@
 
   <summary><b>💻 Estadisticas de perfil</b></summary>
   <br/>
+  ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HX-NBurgueno&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia)
   <div align="center" height="55">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/></p>	
   <p>
