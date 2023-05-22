@@ -227,8 +227,8 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- 	<img src="https://media1.giphy.com/media/KAGNjQwiadTJw0eLs2/giphy.gif?cid=790b761106e9045c616ae9af00689b67055bb43885a286f9&rid=giphy.gif&ct=s" width="40px"> -->
 <br>
-	## <p>Conectate conmigo</p>
-<!-- <h2><b><em> Conectate conmigo</em></b></h2> -->
+
+<h2><b><em> Conectate conmigo</em></b></h2>
 
 <hr>
 <p align="center">
