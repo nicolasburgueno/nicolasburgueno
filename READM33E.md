@@ -254,25 +254,6 @@
 	</div>
 	<hr>
 	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=HX-NBurgueno&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-<!--    https://github-readme-activity-graph.cyclic.app/graph?username=HX-Nburgueno)](https://github.com/ashutosh00710/github-readme-activity-graph -->
-   <a href="https://activity-graph.herokuapp.com/graph?username=HX-NBurgueno&custom_title=HX-NBurgueno's%20Contribution%20Graph&theme=react-dark">
-<!--    <img alt="HX-NBurgueno's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HX-NBurgueno&custom_title=HX-NBurgueno's%20Contribution%20Graph&theme=react-dark"/> -->
-  <br/>
-<!-- 7oSkaaa -->
-
-<br/>
-
-## :trophy: *Git profile Trophies*
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+	<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HX-Nburgueno&layout=compact&theme=algolia" alt="HX-Nburgueno"/></a> </p>
 </details>
------
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
-
-Last Edited on: 10/02/2022
-
