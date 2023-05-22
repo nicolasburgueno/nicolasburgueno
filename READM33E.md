@@ -238,23 +238,12 @@
 <br>
 <br>
 <details> 
-<summary><h2 align="left"><img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px"><b><em>📊 Github Estadisticas</em></b></summary>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/></p>
-
-<br>
-<br>
-
-	
-	
-
-	
-## 📊 *Github Estadisticas*
+<summary><h2 align="left"><b><em>📊 Github Estadisticas</em></b></summary>
 
 
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<summary><b>💻 Estadisticas de perfil</b></summary>
   <br/>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/></p>	
   <p align="center">
     <a href="https://github.com/HX-NBurgueno/github-readme-stats"><img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api?username=HX-NBurgueno&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
