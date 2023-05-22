@@ -245,7 +245,7 @@
   <summary><b>💻 Estadisticas de perfil</b></summary>
   <br>
 	<hr>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/>
 	<br>
  	<a href="https://github.com/HX-NBurgueno/github-readme-stats"><img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api?username=HX-NBurgueno&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	<img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HX-NBurgueno&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>.
