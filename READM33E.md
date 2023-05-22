@@ -255,5 +255,6 @@
 	<hr>
 	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=HX-NBurgueno&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 	<br>
+	<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HX-Nburgueno&layout=compact&theme=algolia" alt="HX-Nburgueno"/></a> </p>
 </details>
