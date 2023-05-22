@@ -244,7 +244,11 @@
 <br>
 <br>
 
-## 📊 *Github Stats*
+	<details> 
+	
+<summary><h2 align="left"><img src="https://media3.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611w8tl8f9ruxyhmzfpo94ekbdrsb37eo3y8pxdoah8&rid=giphy.gif&ct=s" width="60px"><b><em>📊 *Github Estadisticas*</em></b></summary>
+	
+## 📊 *Github Estadisticas*
 
 
 
@@ -272,7 +276,7 @@
 ## :trophy: *Git profile Trophies*
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
+</details>
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
