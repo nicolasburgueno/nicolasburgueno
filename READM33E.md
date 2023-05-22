@@ -224,6 +224,7 @@
 </details>
 </details>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<br>
 	
 ## <img src="https://media1.giphy.com/media/KAGNjQwiadTJw0eLs2/giphy.gif?cid=790b761106e9045c616ae9af00689b67055bb43885a286f9&rid=giphy.gif&ct=s" width="40px"> *Conectate conmigo*
 <p align="center">
@@ -241,11 +242,14 @@
 <summary><h2 align="left"><b><em>📊 Github Estadisticas</em></b></summary>
 
 
-<summary><b>💻 Estadisticas de perfil</b></summary>
+  <summary><b>💻 Estadisticas de perfil</b></summary>
   <br/>
+  <div>
   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/></p>	
   <p align="right">
     <a href="https://github.com/HX-NBurgueno/github-readme-stats"><img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api?username=HX-NBurgueno&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p/>
+  </div>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HX-NBurgueno&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HX-NBurgueno" height="192px"/>
