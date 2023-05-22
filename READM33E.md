@@ -245,7 +245,7 @@
   <summary><b>💻 Estadisticas de perfil</b></summary>
   <br/>
 	<hr>
-    <a href="https://github.com/HX-NBurgueno/github-readme-stats"><img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api?username=HX-NBurgueno&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+ 
 	 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=HX-NBurgueno&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"><img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api?username=HX-NBurgueno&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	<hr>
   <div align="center" height="55">
