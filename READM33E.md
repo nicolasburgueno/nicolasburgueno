@@ -249,7 +249,8 @@
  	<img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api?username=HX-NBurgueno&show_icons=true&count_private=true&theme=algolia" align="left" height="192px"/>
 	<img alt="HX-NBurgueno Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HX-NBurgueno&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
 	<br>
-	<b>Nota:</b> Los lenguajes es solo una métrica de los idiomas en los que consta mi código público y no refleja la experiencia o el nivel de habilidad.
+	<br>
+	<b>* Nota:</b> Los lenguajes es solo una métrica de los idiomas en los que consta mi código público y no refleja la experiencia o el nivel de habilidad.
 	<hr>
 	</div>
   <div align="center" height="55">
