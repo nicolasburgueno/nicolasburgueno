@@ -253,7 +253,7 @@
 	<b>* Nota:</b> Los lenguajes es solo una métrica de los idiomas en los que consta mi código público y no refleja la experiencia o el nivel de habilidad.
 	</div>
 	<hr>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HX-NBurgueno)](https://github.com/hx-nburgueno/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HX-Nburgueno)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <div align="center" height="55">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/></p>	
   <p>
