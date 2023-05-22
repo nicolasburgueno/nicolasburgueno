@@ -237,9 +237,6 @@
 	&emsp;
 	<a href="https://www.linkedin.com/in/nico-burgueño-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-<br>
-<br>
 <details> 
 <summary><h2 align="left"><b><em>📊 Github Estadisticas</em></b></summary>
 	<hr>
