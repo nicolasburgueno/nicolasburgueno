@@ -242,6 +242,7 @@
 <br>
 <details> 
 <summary><h2 align="left"><b><em>📊 Github Estadisticas</em></b></summary>
+	<hr>
 	<div align="center">
 	&nbsp;
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=HX-NBurgueno&hide_border=true&border_radius=20&locale=es&theme=react" alt="nicolasburgueno"/>
