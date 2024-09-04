@@ -57,7 +57,7 @@
 <p align="center">
   <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasburgueno&theme=gotham&show_icons=true"/>
   &emsp;
-  <img height=200 width="330" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasburgueno&theme=gotham&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasburgueno&theme=gotham&layout=compact&langs_count=8&card_width=320" />
   </p>
 
 #
