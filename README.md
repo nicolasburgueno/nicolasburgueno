@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nicolasburgueno.nicolasburgueno&left_color=mediumaquamarine&right_color=mediumaquamarine&left_text=Visitors"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="115" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ2Z3FjbG81bmtycTA4OG5iN2Rybmx3aWY1cm85cDBrbGZwbzU0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nicolasburgueno.nicolasburgueno&left_color=mediumaquamarine&right_color=mediumaquamarine&left_text=Visitors"  />
+</div>
 
 ###
 
