@@ -1,9 +1,3 @@
-<br clear="both">
-
-<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ2Z3FjbG81bmtycTA4OG5iN2Rybmx3aWY1cm85cDBrbGZwbzU0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nicolasburgueno.nicolasburgueno&left_color=mediumaquamarine&right_color=mediumaquamarine&left_text=Visitors"  />
 </div>
@@ -12,11 +6,15 @@
 
 <br clear="both">
 
+<img align="right" height="115" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ2Z3FjbG81bmtycTA4OG5iN2Rybmx3aWY1cm85cDBrbGZwbzU0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"  />
+
+###
+
 <h1 align="left">Hello, I'm Nicolas Burgueño 👋🏻</h1>
 
 ###
 
-<p align="left">💻 **Full Stack Developer | Web, Mobile & Automation Systems**<br><br>I design and build scalable applications combining solid code foundations with smart automation.<br>My workflow merges TypeScript, React, Next.js, NestJS, and Prisma on the dev side — plus Make, n8n, and Zapier for process automation and API orchestration.<br><br>⸻<br><br>👯 I’m looking to collaborate on Projects involving API architecture, React/NestJS full-stack apps, or automated workflows that blend code and no-code.<br>🤝 I’m looking for help with Optimizing multi-tenant backend design, webhooks, and event-driven automations for SaaS products.<br>🌱 I’m currently learning AI integrations, LangChain, and LLM Agents to bring intelligence into automation pipelines. Also exploring DevOps workflows (Docker, CI/CD, scalable deployments).<br>💬 Ask me about React, Next.js, NestJS, Prisma, TypeScript, REST & GraphQL APIs, No-Code tools, or how to automate complex business processes through code.<br>⚡Fun fact I treat every automation as a piece of code — with logs, versioning, and error handling. And yes, I refactor my automations too. 😄</p>
+<p align="left">💻 Full Stack Developer | Web, Mobile & Automation Systems<br><br>I design and build scalable applications combining solid code foundations with smart automation.<br>My workflow merges TypeScript, React, Next.js, NestJS, and Prisma on the dev side — plus Make, n8n, and Zapier for process automation and API orchestration.<br><br>⸻<br><br>👯 I’m looking to collaborate on Projects involving API architecture, React/NestJS full-stack apps, or automated workflows that blend code and no-code.<br>🤝 I’m looking for help with Optimizing multi-tenant backend design, webhooks, and event-driven automations for SaaS products.<br>🌱 I’m currently learning AI integrations, LangChain, and LLM Agents to bring intelligence into automation pipelines. Also exploring DevOps workflows (Docker, CI/CD, scalable deployments).<br>💬 Ask me about React, Next.js, NestJS, Prisma, TypeScript, REST & GraphQL APIs, No-Code tools, or how to automate complex business processes through code.<br>⚡Fun fact I treat every automation as a piece of code — with logs, versioning, and error handling. And yes, I refactor my automations too. 😄</p>
 
 ###
 
@@ -41,10 +39,18 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasburgueno/nicolasburgueno/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasburgueno/nicolasburgueno/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nicolasburgueno/nicolasburgueno/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
