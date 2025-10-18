@@ -10,6 +10,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=81&section=header&reversal=false&text=Hello,%20I'm%20Nicolas%20Burgue%C3%B1o%20%F0%9F%91%8B%F0%9F%8F%BB&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=66&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
 <h1 align="left">Hello, I'm Nicolas Burgueño 👋🏻</h1>
 
 ###
@@ -39,18 +45,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasburgueno/nicolasburgueno/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasburgueno/nicolasburgueno/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nicolasburgueno/nicolasburgueno/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<img src="https://raw.githubusercontent.com/nicolasburgueno/nicolasburgueno/output/snake.svg" alt="Snake animation" />
 
 ###
