@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Nicolas%20Burgueño&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Automation%20Architect&descAlignY=55&descSize=18&descColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,12,20,24&height=200&section=header&text=Nicolas%20Burgueño&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=18&descColor=fff" width="100%"/>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@ const developer = {
   name: "Nicolas Burgueño",
   role: "Full Stack Developer",
   location: "🌍 Remote",
-  
+
   specialization: {
     frontend: ["React", "Next.js", "TypeScript"],
     backend: ["NestJS", "Node.js", "Prisma"],
@@ -35,15 +35,13 @@ const developer = {
     automation: ["Make", "n8n", "Zapier"],
     databases: ["PostgreSQL", "GraphQL"]
   },
-  
+
   currentFocus: [
     "AI/ML Integrations",
     "LangChain & LLM Agents",
     "DevOps & CI/CD",
     "Multi-tenant SaaS"
-  ],
-  
-  philosophy: "Treat automation as code 📝"
+  ]
 };
 ```
 
@@ -55,14 +53,15 @@ const developer = {
 I specialize in building **scalable full-stack applications** that seamlessly integrate traditional development with intelligent automation workflows.
 
 **My Approach:**
+
 - 🏗️ **Architecture:** Design robust, maintainable systems
 - 🔄 **Automation:** Integrate workflows seamlessly
-- 🎨 **UX/UI:** Create intuitive user experiences
 - 📊 **Performance:** Optimize for speed and scalability
 - 🤖 **Innovation:** Leverage AI to enhance functionality
 
-**Philosophy:**
-> *"I treat every automation as a piece of code — with logs, versioning, and error handling. Yes, I refactor my automations too."* 😄
+**Fun Fact:**
+
+> _"I treat every automation as a piece of code — with logs, versioning, and error handling. Yes, I refactor my automations too."_ 😄
 
 </td>
 </tr>
@@ -123,23 +122,23 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/nico-burgue%C3%B1o/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <!-- <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your-email@example.com">
+  </a> -->
+  <a href="mailto:nburgueno.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <!-- <a href="https://your-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/nicolasburgueno" target="_blank">
+  </a> -->
+  <!-- <a href="https://github.com/nicolasburgueno" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+  </a> -->
+</div>
 
 <br>
 
@@ -155,6 +154,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <td valign="top" width="33%">
 
 **Core Languages**
+
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -166,6 +166,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <td valign="top" width="33%">
 
 **Frameworks & Libraries**
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -176,6 +177,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <td valign="top" width="33%">
 
 **State Management**
+
 <p align="center">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query"/>
@@ -198,6 +200,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <td valign="top" width="50%">
 
 **Runtime & Frameworks**
+
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -208,6 +211,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <td valign="top" width="50%">
 
 **API Design**
+
 <p align="center">
 <img src="https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
@@ -259,6 +263,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <td valign="top" width="50%">
 
 **Cloud Platforms**
+
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -269,6 +274,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <td valign="top" width="50%">
 
 **DevOps Tools**
+
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -307,38 +313,32 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasburgueno&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
-</div>
-
-<br>
+## 📝 Latest Medium Articles
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasburgueno&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph"/>
+  <a href="https://medium.com/@nburgueno.dev">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nburgueno.dev/0" alt="Recent Article 0">
+  </a>
 </div>
-
-<br>
-
-## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicolasburgueno&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <a href="https://medium.com/@nburgueno.dev">
+    <img src="https://img.shields.io/badge/Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More"/>
+  </a>
 </div>
-
 <br>
 
 ---
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote"/>
+</p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,12,20,24&height=120&section=footer" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <i>✨ "Code is poetry written in logic" ✨</i>
+  <i>💡 "The only way to do great work is to love what you do." – Steve Jobs</i>
 </p>
 
 <p align="center">
