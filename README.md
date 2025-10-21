@@ -332,19 +332,17 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 
 <br>
 
-<div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Quote" width="500"/>
-
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Quote" width="700"/>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <i>💡 "The only way to do great work is to love what you do." – Steve Jobs</i>
-</p>
+</p> -->
 
 <p align="center">
   <b>Thanks for visiting! Let's connect and build something amazing together 🚀</b>
