@@ -334,7 +334,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 
 <div align="center">
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Quote" width="500"/>
 
 </div>
 
