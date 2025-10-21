@@ -333,7 +333,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 <br>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Quote" width="700"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Quote"/>
 </p>
 
 <div align="center">
