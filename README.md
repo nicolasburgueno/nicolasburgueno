@@ -332,9 +332,9 @@ I specialize in building **scalable full-stack applications** that seamlessly in
 
 <br>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Quote"/>
-</p>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Quote" height="100%"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
