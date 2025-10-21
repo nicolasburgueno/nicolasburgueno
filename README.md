@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,12,20,24&height=200&section=header&text=Nicolas%20Burgueño&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=18&descColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Nicolas%20Burgueño&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=18&descColor=fff" width="100%"/>
 </div>
 
 <div align="center">
@@ -334,7 +334,7 @@ I specialize in building **scalable full-stack applications** that seamlessly in
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote"/>
 </p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,12,20,24&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 </div>
 
 <p align="center">
